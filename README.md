@@ -4,6 +4,7 @@
 ## The 3D-UNet architecture comprises two parts: 
  - encoding path: 3D U-Net architecture with 3 levels of double 3D convolution and 3D max pooling
  - decoding path: 3D U-Net architecture with 3 levels of double 3D convolution and 3D upsampling
+
 and the network architecture realizes end-to-end training.
 
 ## SE 
